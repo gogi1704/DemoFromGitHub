@@ -9,4 +9,7 @@ public class Pet {
     public void sayAge(){
         System.out.println(age);
     }
+    public void voice(){
+        System.out.println("gav");
+    }
 }
