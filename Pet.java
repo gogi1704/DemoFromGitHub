@@ -6,4 +6,7 @@ public class Pet {
         this.clas = clas;
         this.age = age;
     }
+    public void sayAge(){
+        System.out.println(age);
+    }
 }
